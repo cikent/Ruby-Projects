@@ -1,2 +1,2 @@
 # Ruby-Projects
-Repo for Projects involving Ruby
+Various projects all utilizing Ruby as the primary language.
